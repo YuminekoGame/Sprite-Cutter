@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Unity Projects\Tools\Sprite Cutter" t="IncludeRecursive">
+      <e p="Assets" t="Include">
+        <e p="Sprite Tool" t="Include">
+          <e p="Editor" t="Include">
+            <e p="ImporterSettings.cs" t="Include" />
+            <e p="ImporterSettingsSetter.cs" t="Include" />
+            <e p="SpriteCutterWindow.cs" t="Include" />
+            <e p="Yumineko.Character.SpriteCutter.Editor.asmdef" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Sprite Cutter.sln" t="IncludeFlat" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+      <e p="Yumineko.Character.SpriteCutter.Editor.csproj" t="IncludeRecursive" />
+    </e>
+    <e p="C:\Users\lucky\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\lucky\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_Sprite Cutter.1186385881.00" t="ExcludeRecursive" />
+  </component>
+</project>
