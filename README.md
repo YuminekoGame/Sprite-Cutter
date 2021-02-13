@@ -21,3 +21,14 @@ Tools -> Sprite Cutter
 ### 設定
 Projectビューで右クリック -> Create -> Importer Setrtings  
 より分割の設定ファイルを作成できます。
+
+## 利用規約
+Apache License 2.0です。  
+(ライセンス条項さえ書けばOK)  
+https://ja.osdn.net/projects/opensource/wiki/licenses%2FApache_License_2.0
+
+## 謝辞・参考文献
+https://hacchi-man.hatenablog.com/entry/2020/01/21/220000  
+https://kan-kikuchi.hatenablog.com/entry/NonResources  
+http://mizutanikirin.net/unity-assetspath  
+https://qiita.com/Dromar61243968/items/a7b5334b1147983b1e0e
