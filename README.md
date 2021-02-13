@@ -25,7 +25,7 @@ Projectビューで右クリック -> Create -> Importer Setrtings
 ## 利用規約
 Apache License 2.0です。  
 (ライセンス条項さえ書けばOK)  
-https://ja.osdn.net/projects/opensource/wiki/licenses%2FApache_License_2.0
+https://licenses.opensource.jp/Apache-2.0/Apache-2.0.html
 
 ## 謝辞・参考文献
 https://hacchi-man.hatenablog.com/entry/2020/01/21/220000  
