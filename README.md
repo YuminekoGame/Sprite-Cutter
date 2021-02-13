@@ -1,0 +1,23 @@
+# Sprite Cutter
+## 概要
+UnityのTexture2DをMultiple Spriteとして一括で分割します。  
+Importer Settingsを一括で書き替える機能もあります。  
+歩行アニメーション制作の手間を軽減する意図で作りました。
+
+## 機能
+* Texture2Dを縦・横それぞれ指定数で等間隔に分割
+* Importer Settingsの一括書き替え
+* 分割設定を複数作成し、保存・切り替え
+
+## 使い方
+### 導入
+https://github.com/YuminekoGame/Sprite-Cutter/releases/latest  
+上記より.unitypackage をダウンロードし、UnityのProjectビューにドロップ。  
+
+### 分割
+Tools -> Sprite Cutter  
+から呼び出せます。
+
+### 設定
+Projectビューで右クリック -> Create -> Importer Setrtings  
+より分割の設定ファイルを作成できます。
